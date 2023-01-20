@@ -1,0 +1,17 @@
+.container{
+    border: solid 2px;
+    width: min-content;
+    
+
+}
+.cerrar {
+    background-color: #ff0000;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    display: row;
+    align-items: flex-end;
+}
